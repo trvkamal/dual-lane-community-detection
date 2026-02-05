@@ -54,7 +54,7 @@ Streaming community detection algorithms face significant performance challenges
 
 ```bash
 # Clone the repository
-git clone https://github.com/RagulRM/dual-lane-community-detection.git
+git clone https://github.com/trvkamal/dual-lane-community-detection.git
 cd dual-lane-community-detection
 
 # Create virtual environment (recommended)
@@ -215,7 +215,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{author2026duallane,
   title={Dual-Lane: Bounded-Complexity Community Detection for Streaming Graphs Under Burst Churn},
-  author={Ragul Ravi},
+  author={Kamalesh Velmurugan},
   year={2026}
 }
 ```
@@ -242,10 +242,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author:** [Ragul Ravi]
-- **Email:** [r.ragulravi2005@email.com]
-- **LinkedIn:** [https://www.linkedin.com/in/ragulravi2005/]
-- **Paper:** [-]
+- **Author:** [Kamalesh Velmurugan]
+- **Email:** [t.r.v.kamal@gmail.com]
 
 ---
 
